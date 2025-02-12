@@ -1,3 +1,3 @@
 # EGN-Group-2
 
-Our current best model (as of our demo on 2/10/25) is the basic_VAE model.
+Our best model will be updated weekly and can be located at Current_Model.ipynb
